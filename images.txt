@@ -1,1 +1,1 @@
-docker pull mysql:8
+mysql:lastest
